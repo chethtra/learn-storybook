@@ -1,6 +1,6 @@
 import React from 'react';
 import { storiesOf } from '@storybook/react';
-import { Button } from '../src/components/buttons/index';
+import { Button } from '../src/components/index';
 import { withKnobs, color, text } from '@storybook/addon-knobs';
 
 
